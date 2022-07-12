@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ray:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2022-07-12T21:37:53.477812947Z"
+    description: A Helm chart for deployments of Ray on Kubernetes.
+    digest: 5c413cdc2f4e22f8a99d8b8261c27616163d06a3c9009b5422f68ef88bb39a96
+    name: ray
+    type: application
+    urls:
+    - https://edge-experiments.github.io/helm/ray-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-12T21:37:53.476007055Z"
